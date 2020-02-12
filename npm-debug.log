@@ -7,8 +7,8 @@
 6 silly lifecycle food-recepie-product@1.0.0~predev: no script for predev, continuing
 7 info lifecycle food-recepie-product@1.0.0~dev: food-recepie-product@1.0.0
 8 verbose lifecycle food-recepie-product@1.0.0~dev: unsafe-perm in lifecycle true
-9 verbose lifecycle food-recepie-product@1.0.0~dev: PATH: /usr/share/npm/bin/node-gyp-bin:/home/saugat/Desktop/Food recipes product management-API-Final/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
-10 verbose lifecycle food-recepie-product@1.0.0~dev: CWD: /home/saugat/Desktop/Food recipes product management-API-Final
+9 verbose lifecycle food-recepie-product@1.0.0~dev: PATH: /usr/share/npm/bin/node-gyp-bin:/home/saugat/Documents/MealRecipesProduct-API/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+10 verbose lifecycle food-recepie-product@1.0.0~dev: CWD: /home/saugat/Documents/MealRecipesProduct-API
 11 silly lifecycle food-recepie-product@1.0.0~dev: Args: [ '-c', 'nodemon index.js' ]
 12 silly lifecycle food-recepie-product@1.0.0~dev: Returned: code: 1  signal: null
 13 info lifecycle food-recepie-product@1.0.0~dev: Failed to exec dev script
@@ -23,7 +23,7 @@
 14 verbose stack     at maybeClose (internal/child_process.js:925:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
 15 verbose pkgid food-recepie-product@1.0.0
-16 verbose cwd /home/saugat/Desktop/Food recipes product management-API-Final
+16 verbose cwd /home/saugat/Documents/MealRecipesProduct-API
 17 error Linux 5.3.0-26-generic
 18 error argv "/usr/bin/node" "/usr/bin/npm" "run" "dev"
 19 error node v8.10.0
